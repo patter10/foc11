@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Patrick King Resume page</title>
+</head>
+
+<body>
+<h1>This is my first webpage.
+
+<img src ="https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80" 
+alt="Patrick King" width="200" height="250">
+
+<p>I will put my resume here.</br>
+
+<h3>Resume!</h3>
+
+<h2> Patrick Edward King</h2>
+
+<h4>
+
+<p>Profile: I am seventeen years old and I am recent graduate of Belmopan Methodist Highschool and I graduate in the the business 
+            major.
+</p>
+<br>
+<a href="https://www.ub.edu.bz/">I go to school here and I love it.</a>
+
+
+</p>
+ <p> 
+ 
+ My Objective:To secure a dynamic and challenging position within an IT department,where I can leverage my technical skills, problem-solving abilities, and 
+                  passion for technology to contribute to the organization's success. I am eager to apply my knowledge in areas such as software development, network administration,
+                  cybersecurity, or IT support while continually expanding my expertise in a collaborative and innovative environment.  
+				  
+</p>
+
+<p>
+Experience: No Job Experience.
+</p>
+
+<p>
+Qualifications: A 2023 Certificate in Information technology
+</p>
+
+<p>
+My Skills:
+ <br>Can work well with others
+ <br>Great Critical Thinking skills
+ <br> Has great written and oral communication skills
+ </p>
+ 
+ <p>
+ Contact: Number- 661-9546
+ <br>
+ Email: ekingpatrick@gmail.com
+ </p>
+ 
+ <p>
+ Refrence:
+ <br>
+ Mr. Leron Cayetano
+ <br>
+ Email: leron.Cayetano@bmhs.edu.bz
+ 
+ <br>
+ <br>
+ Ms.Oniesha Flores
+ <br>
+ Email: Oniesha.flores@bmhs.edu.bz
+ <br>
+ </p>
+ 
+
+</body>
+</html>
+
